@@ -1,2 +1,2 @@
-# abimanyu-geopolitik.org
+# Coursera_Capstone
 Coursera Capstone Project for Applied Data Science
