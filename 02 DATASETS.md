@@ -1,0 +1,4 @@
+# 02 DATASETS
+The first dataset being used here is the coordinates of offices of One Door Service of the Special Capital Province of Jakarta (structured down to Kelurahan or Municipal Villages level), as provided here [http://data.jakarta.go.id/dataset/data-lokasi-kantor-pelayanan-bptsp](http://data.jakarta.go.id/dataset/data-lokasi-kantor-pelayanan-bptsp). This data dated from 2016, but still relevant as government offices are rarely moved.
+The second dataset will be generated from Foursquare. However it should be noted as the platform is the least used in Indonesia. However for the purpose of testing the theory of mapping and clustering of location and tied to Kelurahan offices data, this will be useful.
+The other datasets that is possible to be used is Google and Instagram/Facebook, as the most popular data platform in Indonesia. If the use of Foursquare data is successful, this will be adapted to another scale when using Google or Instagram/Facebook.
